@@ -1,0 +1,2 @@
+# redirectios
+nextmed domain redirections
